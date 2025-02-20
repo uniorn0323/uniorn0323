@@ -12,10 +12,7 @@ public class Taeng_README : Taeng_Github
     {
         if(Learning == "Unity")
         {
-            Awards_array[0] = "STAC"; 
-            Awards_array[1] = "AppJam_24"; 
-            Awards_array[2] = "Rookie_Challengers";
-            Awards_array[3] = "AppJam_25"; 
+
         }
     }
 }
