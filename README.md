@@ -6,15 +6,6 @@ public class Taeng_README : Taeng_Github
     public string Name = "Choi hyeon seo";
     public readonly Birthday = "2007_03_23";
     public string Learning = "Unity";
-    public string[] Awards_array = new string[3];
-
-    void Awards()
-    {
-        if(Learning == "Unity")
-        {
-
-        }
-    }
 }
 ```
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
